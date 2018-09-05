@@ -1,5 +1,5 @@
 # coropy
 
-Calculating models of galactic coronae in python.
+This code constructs the models of rotating galactic coronae presented in the following paper: 
 
-The code contained in this repository reproduces the models of the paper by Sormani et al. 2018 titled "Models of rotating coronae".
+Sormani et al. 2018, "Models of rotating coronae".
