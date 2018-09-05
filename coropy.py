@@ -7,7 +7,7 @@
 #
 # With the default settings, it constructs model 6 of Sormani et al. (2018). Simply running the code by typing in the terminal
 #
-# >> python rotating.py
+# >> python coropy.py
 #
 # should produce figures similar to those in the paper.
 #
